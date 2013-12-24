@@ -1,0 +1,4 @@
+c:\Users\Wimm\Documents\Visual Studio 2010\Projects\VariationsWith\VariationsWith\bin\Debug\VariationsWith.exe
+c:\Users\Wimm\Documents\Visual Studio 2010\Projects\VariationsWith\VariationsWith\bin\Debug\VariationsWith.pdb
+c:\Users\Wimm\Documents\Visual Studio 2010\Projects\VariationsWith\VariationsWith\obj\x86\Debug\VariationsWith.exe
+c:\Users\Wimm\Documents\Visual Studio 2010\Projects\VariationsWith\VariationsWith\obj\x86\Debug\VariationsWith.pdb

@@ -1,0 +1,5 @@
+c:\users\wimm\documents\visual studio 2010\Projects\Variation\Variation\bin\Debug\Variation.exe
+c:\users\wimm\documents\visual studio 2010\Projects\Variation\Variation\bin\Debug\Variation.pdb
+c:\users\wimm\documents\visual studio 2010\Projects\Variation\Variation\obj\x86\Debug\Variation.exe
+c:\users\wimm\documents\visual studio 2010\Projects\Variation\Variation\obj\x86\Debug\Variation.pdb
+C:\Users\Wimm\Documents\Visual Studio 2010\Projects\Variation\Variation\obj\x86\Debug\Variation.csprojResolveAssemblyReference.cache
